@@ -1,4 +1,8 @@
 # my-vue-app
+Frontend en *`VueJs`* afin de pratiquer la mise en place de la création d'un pipeline Front -> Backend
+
+
+
 
 ## Project setup
 ```
